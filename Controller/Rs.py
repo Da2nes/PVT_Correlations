@@ -1,4 +1,4 @@
-#Funcion del Rs
+#Funcion para encontrar el Rs
 def Rs(colums, P, API, T=None, Yg=None, Yo=None):
     """"
     Parameters
