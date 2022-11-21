@@ -1,4 +1,4 @@
-#%% HOLIIII
+
 
 #Funcion PB
 def Pb(colums, Rs, Yg, T, API=None, Yo=None):
