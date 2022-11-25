@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 from PVT_Correlations.Model.Functions import Bo
 from PVT_Correlations.Model.Functions import Pb
 from PVT_Correlations.Model.Functions import Rs
-from PVT_Correlations.Model.Functions import uo
+from PVT_Correlations.Model.Functions import vo
+
 #%% Create sheet, variable and data names
 
 # Names for sheets
